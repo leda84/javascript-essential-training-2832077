@@ -31,5 +31,5 @@ const binder = {
 };
 
 console.log("The binder object:", binder)
-console.log("The sheet quantity:", binder["sheets"]["quantity"])
+console.log("The binder sheet quantity:", binder["sheets"]["quantity"])
 
